@@ -1,0 +1,17 @@
+.votes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.votes strong {
+    font-size: 2em;
+}
+
+
+.votes .bi-caret-up-fill,
+.votes .bi-caret-down-fill {
+    font-size: 2em;
+}
+
